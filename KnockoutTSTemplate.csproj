@@ -55,7 +55,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="images\icons-buttons\" />
+    <Folder Include="images\" />
     <Folder Include="scripts\models\" />
     <Folder Include="templates\" />
   </ItemGroup>
