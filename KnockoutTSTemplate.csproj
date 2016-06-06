@@ -21,7 +21,6 @@
   <ItemGroup>
     <Content Include="index.html" />
     <Content Include="packages.config" />
-    <None Include="scripts\lib\jquery-2.2.0.intellisense.js" />
     <Content Include="scripts\config.js" />
     <Content Include="scripts\lib\jquery-2.2.0.js" />
     <Content Include="scripts\lib\jquery-2.2.0.min.js" />
